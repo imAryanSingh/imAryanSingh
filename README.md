@@ -2,8 +2,6 @@
 <h2>a passionate Computer Science Engineer working at Udaipur. Here is my GitHub profile, Welcome!</h2>
 <h3 align="center">- 🌱 I'm currently learning AI/ML. <br>- 💡 I love solving complex problems and building cool projects. <br>- 🚀 I'm passionate about Data Science and Development.</h3>
 
-- 🌱 I’m currently learning **Python,Power BI,ML**
-
 - 👨‍💻 All of my projects are available at [imAryanSingh](https://github.com/imAryanSingh)
 
 - 📫 How to reach me **aryansingh4653@gmail.com**
