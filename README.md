@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aryan Singh
-<h2>a passionate Computer Science Engineer working at Udaipur. Here is my GitHub profile, Welcome!</h2>
+<h2>A passionate Computer Science Engineer working at Udaipur. Here is my GitHub profile, Welcome!!</h2>
 <h3 align="center">- 🌱 I'm currently learning AI/ML. <br>- 💡 I love solving complex problems and building cool projects. <br>- 🚀 I'm passionate about Data Science and Development.</h3>
 
 - 👨‍💻 All of my projects are available at [imAryanSingh](https://github.com/imAryanSingh)
