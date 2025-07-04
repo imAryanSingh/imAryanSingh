@@ -59,13 +59,51 @@
 - **Letter of Recommendation, ISRO**: Received from Division Head for exceptional research on wake-word detection.
 - **Data Science Certification, Teachnook**: Completed comprehensive course in Data Science.
 
+## 🧠 LeetCode & HackerRank Stats
+
+### 🔸 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/u/Alertr00kie/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Alertr00kie?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
+### 🔸 HackerRank Profile
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/aryansingh4653" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-@aryansingh4653-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/c3f71cfb11c0" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20(Basic)-Verified-2EC866?style=for-the-badge&logo=python&logoColor=white" alt="Python Basic Certificate" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/189ccfaae2ca" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20(Basic)-Verified-2EC866?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Basic Certificate" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/your-username/your-repo/blob/main/assets/hackerrank_badges.png" alt="HackerRank Badges" width="500"/>
+</p>
+
+
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imAryanSingh&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imAryanSingh" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imAryanSingh" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAryanSingh&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imAryanSingh" alt="Profile Summary" />
 </p>
 
 ### ✍️ Random Dev Quote
