@@ -1,112 +1,222 @@
-# Hello 👋, I'm Aryan Singh
-### A passionate Computer Science Engineer and Student at Udaipur. Welcome to my GitHub!
+<div align="center">
 
-## 💫 About Me
-- 🌱 I'm currently learning **AI/ML** and advanced Data Science techniques, with a focus on real-world applications like my recent work at ISRO on wake-word detection for satellites.
-- 💡 I love solving complex problems and building innovative projects, from computer vision systems to embedded devices.
-- 🚀 I'm passionate about **Data Science**, **Computer Vision**, and **Development**, with hands-on experience from internships at ISRO and IIT Ropar.
-- ⚡ **Fun Fact**: I'm a competitive programmer who enjoys solving puzzles and am an avid chess player!
+# Aryan Singh
+### AI/ML Engineer · Speech Systems · Embedded ML · Computer Vision
 
-## 🏆 Featured Projects
-- **Smart Vision Technology Quality Control**: Developed an automated system using Roboflow and 5,000+ labeled images to identify 20+ products and evaluate freshness, achieving Top 300 in Flipkart GRiD among 100,000+ competitors. [View Project](https://github.com/imAryanSingh/smart-vision-quality-control)
-- **OCR-Speaking Lamp**: Built a Raspberry Pi-powered device with Tesseract OCR and pyttsx3 to read printed text aloud, achieving 95% OCR accuracy for visually impaired users. [View Project](https://github.com/imAryanSingh/ocr-speaking-lamp)
-- **Wake-up Word Detection Model**: Created a CNN-based model for ISRO’s TRISHNA satellite, improving accuracy by 25% in noisy environments. [View Project](https://github.com/imAryanSingh/wake-word-detection)
-- 👨‍💻 All of my projects are available at [imAryanSingh](https://github.com/imAryanSingh)
-- 📫 How to reach me: **aryansingh4653@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-imAryanSingh.github.io-534AB7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://imAryanSingh.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-im--aryan--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/im-aryan-singh)
+[![Gmail](https://img.shields.io/badge/Email-aryansingh4653@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansingh4653@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-aryansingh4653-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aryansingh4653)
 
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/im-aryan-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/aryansingh4653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+</div>
 
-### Languages and Tools:
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/> </a>
-<a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://teachablemachine.withgoogle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="teachablemachine" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
-</p>
+---
 
-## 🏆 Achievements
-- **Gold Medal in Python and SQL, HackerRank**: Awarded for exceptional problem-solving skills in Python and SQL.
-- **Top 300 in Flipkart GRiD**: Ranked among 100,000+ competitors in Software, Security, and Robotics tracks.
-- **Letter of Recommendation, ISRO**: Received from Division Head for exceptional research on wake-word detection.
-- **Data Science Certification, Teachnook**: Completed comprehensive course in Data Science.
+## About me
 
-## 🧠 LeetCode & HackerRank Stats
+B.Tech CSE graduate from Mohanlal Sukhadia University, Udaipur. I build ML systems that work in the real world — not just in notebooks. I spent 4 months at **ISRO's Space Applications Centre** engineering a wake-word detection model for the **Satellite**, and my final-year project on wildfire risk prediction from satellite imagery was submitted for **GSoC 2026**.
 
-### 🔸 LeetCode Stats
-<p align="center">
-  <a href="https://leetcode.com/u/Alertr00kie/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Alertr00kie?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
-  </a>
-</p>
+- 🛰️ **Research Scholar at ISRO SAC** — CNN + MFCC wake-word detection for TRISHNA satellite (Jan–Apr 2025)
+- 🏔️ **Research Intern at IIT Ropar** — AI Vicharana Shala, nationally competitive selection (May–Jul 2024)
+- 🔥 **GSoC 2026 submission** — Wildfire risk prediction from satellite imagery (F1: 0.914)
+- 🏆 **Top 0.3%** in Flipkart GRID 6.0 out of 1,00,000+ participants
+- 📍 Based in Udaipur, Rajasthan · Open to remote & in-office roles
 
-### 🔸 HackerRank Profile
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/aryansingh4653" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-@aryansingh4653-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/c3f71cfb11c0" target="_blank">
-    <img src="https://img.shields.io/badge/Python%20(Basic)-Verified-2EC866?style=for-the-badge&logo=python&logoColor=white" alt="Python Basic Certificate" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/189ccfaae2ca" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20(Basic)-Verified-2EC866?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Basic Certificate" />
-  </a>
-</p>
+## Featured projects
 
-<p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/hackerrank_badges.png" alt="HackerRank Badges" width="500"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ [Wake-Word Detection — ISRO TRISHNA Satellite](https://github.com/imAryanSingh/Wakeup-Word-Detection-Model-for-voice-commanding-system)
+CNN + MFCC binary classifier for ISRO's TRISHNA satellite voice command system.
+Outperforms Vosk and Picovoice by **25% accuracy** at 80%+ ambient noise levels.
+Sub-200ms real-time inference on embedded hardware.
+
+`Python` `TensorFlow` `Librosa` `MFCC` `CNN` `Embedded ML`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 [Wildfire Risk Prediction — Satellite Imagery (GSoC)](https://github.com/imAryanSingh/Wildfire-Prediction-Using-Satellite-Image-GSoC)
+CNN classifier on 2,000+ satellite images · **95.3% accuracy · F1: 0.914**
+Live Streamlit demo. Submitted as GSoC 2026 proposal to University of Alaska Anchorage.
+
+`Python` `TensorFlow` `OpenCV` `Streamlit` `Satellite Data` `CNN`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [Smart Vision Quality Control — Flipkart GRID](https://github.com/imAryanSingh/Smart-Vision-Technology-Quality-Control)
+End-to-end CV quality control pipeline. Detects freshness, classifies 20+ products,
+counts 30+ fruit/vegetable types from 5,000+ labelled images.
+**Top 0.3% (300 / 1,00,000+)** in Flipkart GRID 6.0.
+
+`Python` `YOLOv8` `Roboflow` `Streamlit` `TensorFlow` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Image · Audio · Emoji Steganography](https://github.com/imAryanSingh/Steganography)
+Three steganography techniques — LSB in images, LSB in audio, zero-width Unicode in emoji text.
+Built during IIT Ropar AI programme.
+
+`Python` `OpenCV` `NumPy` `wave` `emoji`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ [Recommendation System for Retail Stores](https://github.com/imAryanSingh/Recommendation-System-for-Retail-Stores)
+Collaborative filtering engine (user-based + item-based) on 500K+ retail transactions.
+Item-based CF achieves Precision@10: 0.34, covering 52% of product catalogue.
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Cosine Similarity`
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 [OCR Speaking Lamp — Raspberry Pi](https://github.com/imAryanSingh/OCR-Speaking-lamp)
+Accessibility device that reads printed text aloud in real time.
+**95% OCR accuracy** · fully offline · no internet required.
+Designed for visually impaired users.
+
+`Python` `Tesseract OCR` `pyttsx3` `OpenCV` `Raspberry Pi`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Skills
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+ 
+**ML / AI Frameworks**
+ 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-8B5CF6?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+ 
+**Specialisations**
+ 
+![Speech Processing](https://img.shields.io/badge/Speech_Processing-4A42A0?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1D9E75?style=flat-square)
+![Embedded ML](https://img.shields.io/badge/Embedded_ML-BA7517?style=flat-square)
+![Edge AI](https://img.shields.io/badge/Edge_AI-534AB7?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-0078D4?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR-E24B4A?style=flat-square)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation_Systems-6706CE?style=flat-square)
+![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-F2C811?style=flat-square&logoColor=black)
+ 
+**Deployment & Tools**
+ 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Achievements
+
+| | Achievement | Detail |
+|--|------------|--------|
+| 🛰️ | **ISRO Letter of Recommendation** | Issued by Division Head, PCSVD, SAC — for outstanding research on TRISHNA satellite voice command project |
+| 🏆 | **Flipkart GRID 6.0 — Top 0.3%** | 300 of 1,00,000+ participants · Software, Security & Robotics tracks · Certificate of Merit |
+| 🥇 | **HackerRank Gold Medal** | Python (Basic) · SQL (Basic) — verified skill certifications |
+| 💼 | **Graduate Engineer Trainee offer** | Secure Meters Ltd., Udaipur — highest placement offer, IET MLSU batch 2025 , 5+ Job Offers |
+| 🎓 | **IIT Ropar — AI Vicharana Shala** | Nationally selected · 2-month residential AI programme · CSE Dept. × iHub-AWaDH |
+
+---
+
+## Certifications
+
+[![Python Basic](https://img.shields.io/badge/Python_(Basic)-HackerRank_Verified-2EC866?style=for-the-badge&logo=python&logoColor=white)](https://www.hackerrank.com/certificates/189ccfaae2ca)
+[![SQL Basic](https://img.shields.io/badge/SQL_(Basic)-HackerRank_Verified-2EC866?style=for-the-badge&logo=mysql&logoColor=white)](https://www.hackerrank.com/certificates/c3f71cfb11c0)
 
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imAryanSingh&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imAryanSingh" alt="GitHub Streak" />
-</p>
+## Competitive programming
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAryanSingh&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imAryanSingh" alt="Profile Summary" />
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Alertr00kie-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Alertr00kie/)
 
-### ✍️ Random Dev Quote
-> "The best way to predict the future is to invent it." — Alan Kay
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Alertr00kie?theme=dark&font=Baloo+Bhai+2&ext=contest)](https://leetcode.com/u/Alertr00kie/)
 
-<p>Feel free to explore my repositories and contribute to my open-source projects!</p>
+</div>
+
+---
+
+## GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imAryanSingh" alt="Aryan's GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imAryanSingh&layout=compact" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=imAryanSingh" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imAryanSingh" alt="Profile Summary" />
+
+</div>
+
+---
+
+## Experience timeline
+
+```
+Jan 2025 – Apr 2025  │  Research Scholar · ISRO Space Applications Centre, Ahmedabad
+                     │  CNN + MFCC wake-word detection for TRISHNA satellite
+                     │
+May 2024 – Jul 2024  │  Research Intern · IIT Ropar (CSE Dept. × iHub-AWaDH)
+                     │  AI Vicharana Shala — nationally selected residential programme
+                     │
+Dec 2023 – Jan 2024  │  Data Science Intern · CodeClause Pvt. Ltd., Udaipur
+                     │  K-means clustering → 2× user engagement in 4-week A/B test
+                     │
+Nov 2023 – Jan 2024  │  Full Stack Developer Training · Vlite Technologies, Udaipur
+                     │  ASP.NET + C# + SQL Server · Library Automation System · Grade A
+```
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to invent it."* — Alan Kay
+
+**Open to: AI/ML Engineering · Research Roles · In-Office · Remote**
+
+</div>
